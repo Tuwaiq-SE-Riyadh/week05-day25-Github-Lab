@@ -8,7 +8,7 @@ Some Notes:
 * Steps 12 should be done by both project lead and contributors/teammates.
 
 ## The leader of the group should do the following: 
-1.  Create a new repository.
+1.  Create a new repository in your organization.
 
 </br>
 
