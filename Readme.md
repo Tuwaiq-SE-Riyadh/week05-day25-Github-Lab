@@ -3,7 +3,7 @@
 Some Notes:
 * Steps 1 should only be done once by the project lead.
 * Steps 2-10 done by all contributors/teammates.
-* Steps 11 should only be done once by the project lead.
+* Steps 11 should only be done by the project lead.
 * Steps 12 should be done by all contributors/teammates.
 
 ## The leader of the group should do the following: 
