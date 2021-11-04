@@ -2,7 +2,8 @@
 
 Some Notes:
 * Steps 1 should only be done once by the project lead.
-* Steps 2-10 done by all contributors/teammates.
+* Steps 2-3 done once by all contributors/teammates.
+* Steps 4-10 done by all contributors/teammates.
 * Steps 11 should only be done by the project lead.
 * Steps 12 should be done by all contributors/teammates.
 
