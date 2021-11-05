@@ -27,7 +27,7 @@ Some Notes:
 6. Add html file that has `<h1>Hello from YOUR_NAME</h1>`
 7. Add your work to the staging area `git add .`
 8. Save the staged changes via commit `git commit -m “”`
-9. Push the new branch to origin g`it push -u origin Feature_Name`
+9. Push the new branch to origin `git push -u origin Feature_Name`
 10. Submit pull request
 
 </br>
